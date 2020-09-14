@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Eduardo Silva <eduardosilva07.js@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
 }
